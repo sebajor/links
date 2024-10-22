@@ -7,7 +7,10 @@
 - [AXI DMA in linux](https://www.hackster.io/whitney-knitter/introduction-to-using-axi-dma-in-embedded-linux-5264ec)
 - [AXI DMA in zuboard](https://www.controlpaths.com/2023/06/04/dma-petalinux-and-the-zuboard/)
 - [PCIe in 7-series](https://www.controlpaths.com/2021/08/30/using-pcie-in-xilinx-7-series/)
+- [PCIe rabbit hole about the protocol itself](https://scolton.blogspot.com/2024/01/pcie-deep-dive-part-4-ltssm.html?m=1)
 
+## Non-project mode
+- [Non-porject optimization](https://hwjedi.wordpress.com/2017/01/04/vivado-non-project-mode-the-only-way-to-go-for-serious-fpga-designers/)
 
 ## FFTs
 - [R22sdf implementation](https://github.com/nanamake/r22sdf)
@@ -24,3 +27,4 @@
 - [Zynq control clocks from the user space](http://www.cgsy.com.au/archives/498)
 - [Zuboard petalinux tutorial](https://www.controlpaths.com/2024/01/21/getting-started-with-zuboard-petalinux/)
 - [Asymmetric multiprocess in Zynq MPSOC](https://www.controlpaths.com/2020/09/01/asymmetric-multiprocessing-on-zynq-mpsoc/)
+

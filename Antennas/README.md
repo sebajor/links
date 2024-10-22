@@ -5,4 +5,5 @@
 - [HFSS videos on how to use several options of the software](https://www.youtube.com/@howtosim7253/videos)
 - [Awesome channel about RF!!!](https://www.youtube.com/@rfgetdown)
 - [Good tutorial of HFSS](https://www.youtube.com/@parinaznaseri)
+- [HFSS optimizer in python](https://github.com/ERA-2022/PerSeO/tree/main)
 
